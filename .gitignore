@@ -1,7 +1,6 @@
 # IntelliJ
 out/
 .idea_modules/
-*.iml
 *.ipr
 *.iws
 # Gradle

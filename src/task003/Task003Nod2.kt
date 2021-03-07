@@ -7,7 +7,7 @@ package task003
 
 private var numMax = 600851475143
 private var y = 0
-
+// Not mine and not work
 fun main() {
     val a : Long = numMax
     for(i in numMax downTo 1){

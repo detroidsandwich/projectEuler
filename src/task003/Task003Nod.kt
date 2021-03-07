@@ -7,7 +7,7 @@ package task003
 
 private var numMax = 600851475143L
 private var c = 0L
-
+// Not work
 fun main() {
 
     for (i in numMax - 1 downTo 2) {
